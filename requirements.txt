@@ -1,5 +1,4 @@
 pandas==1.5.1
-plotly==5.11.0
 pandas-profiling==3.4.0
 streamlit-pandas-profiling==0.1.3
 
