@@ -6,6 +6,7 @@ import pandas as pd
 import streamlit as st
 
 import plotly.express as px
+from streamlit_pandas_profiling import st_profile_report
 
 
 from pandas_profiling import ProfileReport
