@@ -8,9 +8,6 @@ import streamlit as st
 import plotly.express as px
 
 
-
-from streamlit_pandas_profiling import st_profile_report
-
 from pandas_profiling import ProfileReport
 
 st.set_page_config(page_title="Runs Scored by Players",
